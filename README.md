@@ -18,7 +18,7 @@
 | 2017.2 | 2023.2 | 한성대학교   |컴퓨터공학부 | 3.6/4.5 |
 
 
-<!--### 3. 보유기술(Technical Skills)-->
+### 3. 보유기술(Technical Skills)
 
 3.1  기초지식(Basics)
 * Programming Languages: C, __Java__, Javascript, __Python__,
