@@ -21,7 +21,7 @@
 ### 3. 보유기술(Technical Skills)
 
 3.1  기초지식(Basics)
-* Programming Languages: C, __Java__, Javascript, __Python__,
+* Programming Languages: C, __Java__, Javascript, __Python__
 * Operating Systems: __Linux__,__Unix__
 * IDE(Eclipse)
 
